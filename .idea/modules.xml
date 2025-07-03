@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-debug/01-debug.iml" filepath="$PROJECT_DIR$/01-debug/01-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-while/01-exercicio/01-exercicio.iml" filepath="$PROJECT_DIR$/02-while/01-exercicio/01-exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-while/02-while.iml" filepath="$PROJECT_DIR$/02-while/02-while.iml" />
       <module fileurl="file://$PROJECT_DIR$/section-6-estruturas-repetitivas.iml" filepath="$PROJECT_DIR$/section-6-estruturas-repetitivas.iml" />
     </modules>
