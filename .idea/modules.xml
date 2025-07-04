@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-debug/01-debug.iml" filepath="$PROJECT_DIR$/01-debug/01-debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-while/01-exercicio/01-exercicio.iml" filepath="$PROJECT_DIR$/02-while/01-exercicio/01-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-for/01-exercicio-for/01-exercicio-for.iml" filepath="$PROJECT_DIR$/03-for/01-exercicio-for/01-exercicio-for.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-while/02-exercicio/02-exercicio.iml" filepath="$PROJECT_DIR$/02-while/02-exercicio/02-exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-while/02-while.iml" filepath="$PROJECT_DIR$/02-while/02-while.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-for/03-for.iml" filepath="$PROJECT_DIR$/03-for/03-for.iml" />
